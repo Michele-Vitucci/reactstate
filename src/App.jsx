@@ -8,7 +8,7 @@ function app() {
     return(
         <>
           <Counter/>
-          <CounterDisplay/>
+          
         
         </>
       
